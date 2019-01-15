@@ -13,3 +13,6 @@ none
 
 # image files
 *.img
+
+# tar files
+*.tar.gz
